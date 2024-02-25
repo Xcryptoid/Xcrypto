@@ -1,0 +1,2 @@
+# Xcrypto
+Xcrypto tesnet
